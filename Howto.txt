@@ -1,0 +1,105 @@
+Battle Ship 
+
+ 
+
+Basics - physical 
+
+    2 player game 
+
+    2 Board 
+
+    5 ships 
+
+    White pegs for misses 
+
+    Red pegs for hits 
+
+    Each player goes in turn trying to sink all of the ships –or- a quick game is simply to sink the battleship 
+
+        Does the computer have to play the second player is only one player is available? 
+
+Basics – Program 
+
+    2 player game 
+
+        Input of player one, (X, Y) 
+
+        Input of player two, (X, Y) 
+
+    2 Board 
+
+        Player One 
+
+        Player Two 
+
+        Each board is the same for each player 
+
+            Grid of 10X10 
+
+            Rows are designated by: 
+
+                A-J  
+
+            Columns are designated by: 
+
+                1-10 
+
+            (Letter, Number) coordinates 
+
+    5 ships 
+
+        Create each of the following: 
+
+            Carrier 
+
+                5 hits make it up 
+
+                5 hits to sink 
+
+            Battleship 
+
+                4 hits make it up  
+
+                4 hits to sink 
+
+            Cruiser 
+
+                3 hits make it up  
+
+                3 hits to sink 
+
+            Submarine 
+
+                3 hits make it up  
+
+                3 hits to sink 
+
+            Destroyer 
+
+                2 hits make it up  
+
+                2 hits to sink 
+
+        All ships must be created and placed before game commences 
+
+        Ships may be placed: 
+
+            Horizontal 
+
+            Vertical 
+
+        Ships cannot move 
+
+    Shots fired – Game play: 
+
+        White pegs for misses 
+
+            Indicate a miss by a Capital “O” 
+
+        Red pegs for hits 
+
+            Indicate a miss by a Capital “X” 
+
+Each player goes in turn trying to sink all of the ships –or- a quick game is simply to sink the battleship 
+
+    Does the computer have to play the second player is only one player is available? 
